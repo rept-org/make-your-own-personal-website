@@ -9,7 +9,7 @@ url: https://rept-org.github.io/make-your-own-personal-website
 
 # for header and meta tags
 title: Firstname Lastname
-description: "I'm example person and I like to code!"
+description: I am example person and I like to code!
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
