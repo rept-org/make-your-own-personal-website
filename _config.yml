@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-# yours should be https;//username.github.io
+# yours should be https://username.github.io
 url: https://rept-org.github.io
 
 
@@ -16,15 +16,21 @@ description: I am example person and I like to code!
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
 nav-links:
+  ################## SOCIAL MEDIA ##################
   # for social links, go to the profile page and copy the URL
-  - name: Social Media
+  # Example:
+  - name: Instagram
     url: https://instagram.com/myinstagramusername
     external: true
-   # remember that this will be visible to the entire internet
-   # don't put an email address you would like to keep private
+  ##################################################
+
+  ################## EMAIL ##################
+  # remember that this will be visible to the entire internet
+  # don't put an email address you would like to keep private
   - name: Email
     url: mailto:myemail@website.com
     external: true
+  ###########################################
 
 # for the homepage image + big text next to it
 greeting_image: /assets/profile.jpg
