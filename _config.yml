@@ -5,8 +5,8 @@
 #
 
 # no trailing slash
+# yours should be https;//username.github.io
 url: https://rept-org.github.io
-baseurl: /make-your-own-personal-website
 
 
 # for header and meta tags
