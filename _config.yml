@@ -5,29 +5,29 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+url: https://mygithubusername.github.io
 
 # for header and meta tags
-title: Point Theme 🎯
-description: description for search engines and social media cards
+title: Firstname Lastname
+description: "I'm example person and I like to code!"
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
 nav-links:
-  - name: Home
-    url: /
-    external: false
-  - name: Blog
-    url: /blog
-    external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
+  # for social links, go to the profile page and copy the URL
+  - name: Social Media
+    url: https://instagram.com/myinstagramusername
+    external: true
+   # remember that this will be visible to the entire internet
+   # don't put an email address you would like to keep private
+  - name: Email
+    url: mailto:myemail@website.com
     external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: "Hey, I'm example person! I like to code!"
 
 # show blog post excerpts on blog page
 show_excerpts: false
