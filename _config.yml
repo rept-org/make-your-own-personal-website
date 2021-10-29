@@ -5,7 +5,9 @@
 #
 
 # no trailing slash
-url: https://rept-org.github.io/make-your-own-personal-website
+url: https://rept-org.github.io
+baseurl: /make-your-own-personal-website
+
 
 # for header and meta tags
 title: Firstname Lastname
