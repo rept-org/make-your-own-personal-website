@@ -25,7 +25,7 @@ nav-links:
     external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/me.jpg
+greeting_image: /assets/profile.png
 # 100-200 characters recommended
 greeting_text: "Hey, I'm example person! I like to code!"
 
